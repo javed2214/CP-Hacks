@@ -1,4 +1,6 @@
 // Fast Modulo Exponentiation
+// Time Complexity : O(log(b))
+// Space Complexity: O(1)
 
 #include<bits/stdc++.h>
 using namespace std;
